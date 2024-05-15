@@ -1,15 +1,47 @@
-# Comp-472-Project-MVN
+# AI Wargame
 
-## Google Doc (Brainstorming Notes)
-https://docs.google.com/document/d/10S-ZTKsRUPkxcPoPyi4bA3ZQpEsZ6IOEJi30T4B5iW8/edit 
+## Overview
+AI Wargame is a strategic 2-player game set on a 5x5 board, where an attacker and a defender engage in battle with various units. The goal is to destroy the defender's AI while protecting your own. This project involves implementing adversarial search algorithms to create challenging gameplay experiences.
 
-## Team Name
-MVN
+## Features
+- **Game Mechanics**: Implements a strategic board game with attacker and defender roles.
+- **Adversarial Search**: Utilizes the minimax algorithm with alpha-beta pruning for AI decision-making.
+- **Heuristics**: Develops heuristics to enhance the AI's strategic decision-making process.
+- **Manual and Automatic Play**: Supports both manual and automatic play modes for user flexibility.
+- **Command-line Interface**: Provides a simple interface for interaction with text-based input/output.
 
-## Team Members
+## Technologies Used
+- **Programming Language**: Python
+- **Algorithms**: Minimax algorithm with alpha-beta pruning
+- **Development Environment**: Command-line interface
 
-|   Name   | ID      | GitHub   | Email  
-| ------------- | ------------- | --------    | -------- |
-| **`Nadine El-Mufti`**         | `40017347`         | ([GitHub/njayem](https://github.com/njayem))   | nadine.el.mufti@gmail.com
-| `Mohamad Salim`           | `40111460`         | ([GitHub/MohamadGSalim](https://github.com/MohamadGSalim))   | mohammedsalim1909@hotmail.com
-| `Victoria Castelli`         | `40117055`         |  ([GitHub/VCastelli](https://github.com/VCastelli))  | victoriacastelli33@gmail.com
+## Skills Demonstrated
+- Artificial Intelligence
+- Python Programming
+- Algorithm Design
+- Game Development
+- Team Collaboration
+
+## Installation
+
+### Prerequisites
+- Python 3.x installed on your local machine
+
+### Steps
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/MohamadGSalim/AI-Wargame.git
+    cd AI-Wargame
+    ```
+
+2. **Launch the Game**:
+    ```bash
+    python ai_wargame_skeleton.py
+    ```
+
+## Usage
+1. **Game Setup**: Follow on-screen instructions to set up the game.
+2. **Player Interaction**: Input commands to make moves and interact with the game.
+3. **AI Gameplay**: Experience challenging gameplay against AI opponents.
+4. **Manual Play**: Play manually by inputting your moves.
+5. **Automatic Play**: Observe AI vs. AI gameplay in automatic mode.
