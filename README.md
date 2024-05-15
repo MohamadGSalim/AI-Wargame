@@ -1,4 +1,5 @@
 # AI Wargame
+![blog-01-2-compressed](https://github.com/MohamadGSalim/AI-Wargame/assets/65099738/c4d19627-f91e-43d2-bd09-7273d37c89b0)
 
 ## Overview
 AI Wargame is a strategic 2-player game set on a 5x5 board, where an attacker and a defender engage in battle with various units. The goal is to destroy the defender's AI while protecting your own. This project involves implementing adversarial search algorithms to create challenging gameplay experiences.
